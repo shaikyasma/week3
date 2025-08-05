@@ -17,8 +17,8 @@
 <tr><td ralign="top"><b>gender:*</b></td>
 <td><input type="radio"name="gen"value="female"><b>female</b></td></tr>
 <tr><td valign="top"><b>language known:*</b></td>
-<td><input type="check box"name="lang"value="english">english<br>
-<td><input type="check box"name="lang"value="telugu">telugu<br>
+<td><input type="check box"name="lang"value="social">social<br>
+<td><input type="check box"name="lang"value="computer">computer<br>
 <td><input type="check box"name="lang"value="hindi<br>
 </td></tr>
 <tr><td valign+"top"><b>address:*</b></td>
